@@ -1,0 +1,1 @@
+A web app created with react to get a random new image when the "next" button is clicked. 
